@@ -15,4 +15,11 @@
 #DB 연동 관련해서 문제 발생시 해결하겠습니다
  
 
+![IT3](https://user-images.githubusercontent.com/105403396/207735919-52887d84-4fcb-41df-8423-728106737a2c.PNG)
+![IT4](https://user-images.githubusercontent.com/105403396/207735929-c3ab8416-7622-41ed-927c-6c93ac5ba926.PNG)
 
+
+2022-12-15 업데이트
+
+#로고는 15일 오후 작업 예정
+#수정사항 발생시 빠른 연락 부
